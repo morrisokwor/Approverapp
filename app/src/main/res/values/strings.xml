@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Brisk Approvers App</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name </string>
+    <string name="tel">Telephone </string>
+    <string name="email">Email Address </string>
+    <string name="pass"> Enter Password </string>
+    <string name="con_pass">Confirm Password </string>
+    <string name="sign_in">Sign In </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Email Address</string>
+    <!--    notice-->
+    <string name="created">Created</string>
+    <string name="notice">Notice</string>
+    <string name="reference">Reference</string>
+    <string name="desc">Description</string>
+    <string name="msg"> Text Message</string>
+    <string name="rmks">Remarks</string>
+    <string name="active">Active</string>
+    <string name="Acknowlegde">Acknowlegde</string>
+    <string name="viewref">Reference Document</string>
+
+    <!-- workflow-->
+    <string name="date">Document Date</string>
+    <string name="user">User</string>
+    <string name="applicant">Name of Applicant</string>
+    <string name="workflow">Reference</string>
+    <string name="messg">Message</string>
+    <string name="prmks">Previous Remarks</string>
+    <string name="apprv">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="defer">Defer</string>
+    <string name="forward">Forward For Approval</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
